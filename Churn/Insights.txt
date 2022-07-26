@@ -1,0 +1,41 @@
+Total = 6687 { senior = 1227 , under 30 = 1287 , btw 30 and senior = 5400 - 1227 )
+
+Person who are senior have churened less as compared to youngerters.
+Customer who have intl plan ( 162 excluding group ) or are in group ( 99 excluding intl plan ) churn less.
+Customer who have month to month contract are more likely to churn more as compared to other categories. ( 90 ) %
+Female ( 90% ) customer are more likely to churn as compared to male customer ( 86% ). Contract type - M-ON-M
+Male one yearly customers are more likely to churn.
+Male Two yearly customers are more likely to churn.
+
+
+Original data : 
+
+Male : 3379
+M : 1715 -- > 50.7%
+Y : 756  -- > 22.3%
+2Y : 908 -- > 26.8%
+
+Female : 3301
+M : 1691 -- > 51.226%
+Y : 721  -- > 21.841%
+2Y : 889 -- > 26.931%
+
+Other : 7
+M : 5 -- > 71.42
+Y : 2 -- > 28.57
+2Y : 0
+
+Male : 897
+M : 777 -- > 86.625
+Y : 93  -- > 10.36
+2Y : 27 -- > 3.01
+
+
+Female : 897
+M : 800 -- > 89.988%
+Y : 74  -- > 8.24%
+2Y : 23 -- > 2.56%
+
+
+Other : 2
+Month : 2 -- > 100%
